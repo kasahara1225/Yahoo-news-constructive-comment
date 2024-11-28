@@ -28,8 +28,7 @@
 以下のスクリプトで、データセットの簡単な操作例を見ることができます：
 ```bash
 # データをダウンロード
-git clone https://github.com/yourusername/dataset-repository.git
+git clone https://github.com/kasahara1225/Yahoo-news-constructive-comment.git
 cd dataset-repository
 
-# 使用例（Pythonスクリプトを実行）
-python docs/usage_example.ipynb
+
